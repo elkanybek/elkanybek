@@ -5,7 +5,7 @@
 ✨ Soon to be an intern as a **Data Analyst** <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=elkanybek&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=elkanybek&theme=radical&hide_border=true&include_all_commits=false&count_private=false)  -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elkanybek&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
