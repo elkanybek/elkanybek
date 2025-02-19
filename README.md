@@ -2,7 +2,8 @@
 
 👩🏻‍💻 Software Developer<br/>
 👩🏻‍🎓 Studying Computer Science at John Abbott College, Canada<br/>
-✨ Soon to be an intern as a **Data Analyst** <br/>
+✨ Intern as a **Data Analyst** at Business Development Bank of Canada<br/>
+👾 Interested in Augmented Reality<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=elkanybek&theme=radical&hide_border=true&include_all_commits=false&count_private=false)  -->
