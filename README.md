@@ -1,7 +1,7 @@
 # 🌷 Hi there, I'm Elsana! 
 
 👩🏻‍💻 Software Developer<br/>
-👩🏻‍🎓 Studying Computer Science at John Abbott College, Canada<br/>
+👩🏻‍🎓 Studying Computer Science at John Abbott College, Canada. In Fall 2025, I will be entering Concordia University in CS.<br/>
 ✨ Intern as a **Data Analyst** at Business Development Bank of Canada<br/>
 👾 Interested in Augmented Reality<br/>
 
