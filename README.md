@@ -1,9 +1,8 @@
 # 🌷 Hi there, I'm Elsana! 
 
-👩🏻‍💻 Software Developer<br/>
+👩🏻‍💻 Software Engineer<br/>
 👩🏻‍🎓 Studying Computer Science at John Abbott College, Canada. In Fall 2025, I will be entering Concordia University in CS.<br/>
-✨ Intern as a **Data Analyst** at Business Development Bank of Canada<br/>
-👾 Interested in Augmented Reality<br/>
+✨ Intern as a **Software Engineer Intern** at Business Development Bank of Canada<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=elkanybek&theme=radical&hide_border=true&include_all_commits=false&count_private=false)  -->
