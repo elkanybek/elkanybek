@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently a Computer Science student at John Abbott College and an incoming undergraduate at Concordia University  
 - 🌱 I’m interning as a Software Engineer Intern at BDC  
-- 💬 I enjoy playing tennis, skiing, and reading  
-- 😄 Pronouns: She / Her
+- 💬 I enjoy playing tennis, skiing, and reading
 
 
 
