@@ -1,12 +1,16 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUxc29odjByaDk2MDd5MGhqZXo2NXpqcnc4cnl5ZG1zY3AyY3RzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Funny gif" width="900" height="450"/>
 
-# 🌷 Hi there, I'm Elsana! 
+# 🌷 Hi there, I'm Elsana!  
 
-- 🔭 I’m currently a Computer Science student at Concordia University
-- 🌱 I’m interning as a Software Engineer Intern at BDC  
-- 💬 I enjoy playing tennis, skiing, and reading
+- 🔭 I’m currently a Computer Science student at Concordia University 
+- 💼 VP Finance at HackConcordia, helping organize **ConUHacks X**
+- 💬 I enjoy playing tennis, skiing, reading, and dancing  
 
+# 🎖️ Awards
 
+- **FORTES Scholarship (2x)** – National Bank of Canada & Business Development Bank of Canada
+- **Next Generation Fellowship Winner** – OBVIA
+- **AI4Good Lab Fellowship Winner** – Mila Quebec AI Institute
 
 # 💻 Tech Stack
 
