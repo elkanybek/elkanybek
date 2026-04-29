@@ -66,7 +66,9 @@
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-# 📈 Statistics
+---
+
+## 📈 Statistics
 ![elkanybek's Streak](https://github-readme-streak-stats.herokuapp.com/?user=elkanybek&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## Let's Connect:
